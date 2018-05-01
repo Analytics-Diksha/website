@@ -1,0 +1,14 @@
+Version v1.0
+Date: 26/04/2018
+Name: Vinayak
+Description: Created first design and look of the website.
+
+Version v1.1
+Date: 01/05/2018
+Name: Manish
+Description: Made following changes
+1) Added some Testimonials
+2) Changed People images and description
+3) Modified the Social Links
+4) Removed the latest work section
+
